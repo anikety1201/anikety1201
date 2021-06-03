@@ -3,9 +3,9 @@
 <div>
 <div align="left"> 
   <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
-  - 🎓 &nbsp; B.Tech E.C.E student at Meerut Institute of Engineering & Technology.
-  - 💻 &nbsp; Currently working on Full Stack Web Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🎓 &nbsp; B.Tech E.C.E student at Meerut Institute of Engineering & Technology.<br>
+  - 💻 &nbsp; Currently working on Full Stack Web Development projects.<br>
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br>
   - ✍️ &nbsp; Upgrading skills on Java and Python
   
 
